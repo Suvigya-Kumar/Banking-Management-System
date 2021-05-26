@@ -3,7 +3,7 @@ Based on C programming language.
 # About
 This project is based on the concept that give rise to payment transactions with the customer's account.
 There is login system to access and to use all the features of the system which includes Adding, Removing, Updating, viewing records, withdraw and deposit cash, check details of customers and ATM features.
-Deatils of the customers are stored in the file for convienience.
+Details of the customers are stored in the file for convienience.
 # Features
 For maintaining the record : current date, account number, name, date of birth, age, address, aadhar number, phone number, the amount deposited he amount deposited while creating an account and select account type are required.
 Under this, there are five types of account, Saving, Current, Fixed(for 1 year), Fixed(for 2 years), Fixed(for 3 years). 
